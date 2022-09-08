@@ -1,6 +1,6 @@
 ![Front end Developer](https://mir-s3-cdn-cf.behance.net/297993aa58924c52c94c1dc89f391c20/2774a2e0-b5f1-4f5b-9c48-75a72ab1f792_rwc_561x0x2079x410x3200.png?h=ac04d267f2581ce504ddb899cdcbd212)
 
-### Hi there 👋, I'm Sakkhar Omrito
+### Hi there 👋, I'm SAKKHAR MAJUMDER
 #### Front end Developer
 
 
