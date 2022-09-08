@@ -6,7 +6,12 @@
 
 Hi i am a Front end Developer who is passionate about making erroe-free website with 100% satisfaction. I have  a passion for learning &  sharing my knowledge. I enjoy working with html css js jquery & bootstrap.
 
-Skills: HTML | CSS | JS | JQUERY | BOOTSTRAP
+Skills & Experince :
+HTML 
+CSS 
+JAVASCRIPT 
+JQUERY 
+BOOTSTRAP
 
 - 🔭 I’m currently working on MARKETO 
 - 🌱 I’m currently learning JAVASCRIPT 
